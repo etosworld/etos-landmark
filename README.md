@@ -42,4 +42,4 @@ bash ./scripts/download/download_wflw_annotation.sh WFLW
 
 ### Refer
 
-![LAB](https://github.com/wywu/LAB)
+[LAB](https://github.com/wywu/LAB)
