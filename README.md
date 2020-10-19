@@ -1,7 +1,7 @@
 
 ### etos-landmark
 
-a high accuracy facial landmark detection model, for [ETOS](https://etos.world) Ecosystem.
+a high accuracy facial landmark detection model.
 
 ### Look at Boundary: A Boundary-Aware Face Alignment Algorithm
 
